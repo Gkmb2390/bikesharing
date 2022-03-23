@@ -40,5 +40,5 @@
     Another view of data that would be helpful is to reveiw the current ridership/user types by Age.  If we looked to the age groupings to see which age groups frequented our services the most.  We could then design marketing and promotional programs to entice the age groups who utilize our service the least; or reward those who utilize it the most.  
 
     To review more in depth please see my public Tableau page located here.
-    [Dashboard Link](https://public.tableau.com/app/profile/kevin.blum8006/viz/Module14Challenge_16479584208430/GenderBreakdown?publish=yes)
+   [Dashboard Link](https://public.tableau.com/app/profile/kevin.blum8006/viz/Module14Challenge_16479584208430/GenderBreakdown?publish=yes)
 
